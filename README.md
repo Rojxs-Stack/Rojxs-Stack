@@ -1,43 +1,70 @@
-# 👋 ¡Hola! Soy Nicolas Rojas
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-## 🚀 Sobre mí
-Soy un **desarrollador de software multiplataforma** y **desarrollador web full stack** con un gran interés en la tecnología, la inteligencia artificial y la administración. Actualmente, estoy aprendiendo y especializándome en **Python backend con FastAPI y MongoDB**, además de reforzar mis conocimientos en **HTML, CSS y JavaScript**.
+<h3 align="center">
+  Hi, I'm Aldo Nicolas Santacruz Rojas
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-## 💼 Objetivo Profesional
-Estoy buscando oportunidades de trabajo en **programación**, preferiblemente en modalidad **remota**, para aplicar mis conocimientos y seguir creciendo en el mundo del desarrollo.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Technician;Programmer%20Full-Stack%20Cross-platform;Computer%20Technician;Programmer%20Full-Stack%20Cross-platform;Computer%20Technician;&font=Fira%20Code&center=true&width=440&height=45">
+  </a>
+</p>
 
-## 🛠️ Tecnologías y Herramientas
-- **Backend:** Python (FastAPI), MongoDB
-- **Frontend:** HTML, CSS, JavaScript, Flutter (aprendiendo)
-- **Otros:** Arduino (sensores y automatización), Tinkercad, desarrollo de videojuegos en Python, MetaTrader (bots de trading)
-
-## 🎯 Proyectos y Experiencia
-- **Aplicación de Proveedores (Sumarket):** Plataforma para que grandes proveedores publiquen, comparen precios y gestionen sus productos.
-- **Gestión de Inventario:** Aplicación en Python para registrar, actualizar y administrar productos en un pequeño comercio.
-- **Juegos en Python:** Desarrollo de videojuegos con Thonny y sprites animados.
-- **Sistemas con Arduino:** Creación de un sistema de seguridad para puertas, sensores de temperatura y humedad, y control de persianas automáticas.
-- **Trading en Binarias:** Desarrollo de una estrategia basada en soportes, resistencias y acción del precio en IQ Option.
-- **Bot para MetaTrader:** Creación de un bot automatizado para operar en MetaTrader, basado en estrategias de análisis técnico.
-
-## 📖 Educación y Aprendizaje
-Actualmente, estoy estudiando en profundidad **Python**, con un enfoque en backend y machine learning. Estoy realizando un curso de **FastAPI y MongoDB**. Mi objetivo es mejorar mis habilidades construyendo APIs y aplicando lo aprendido en proyectos reales.
-
-## 🔥 Retos y Metas
-- Dominar FastAPI y MongoDB
-- Aprender Flutter para mejorar mis habilidades en frontend
-- Construir APIs funcionales y bien estructuradas
-- Seguir creando proyectos reales que refuercen mi aprendizaje
-- Conseguir mi primer trabajo en programación lo más rápido posible
-
-## 🏋️ Intereses Personales
-- **Tecnología y Automatización:** Me gusta desarrollar sistemas inteligentes, como casas automatizadas y controles de acceso con Arduino.
+<p align="center">
+  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+</p>
 
 
-## 📫 Contáctame
-Si te interesa colaborar o simplemente quieres charlar sobre tecnología, ¡hablemos!
-- **Email:** [mastercomputer129@gmail.com](mailto:Mastercomputer129@gmail.com)
-- **GitHub:** [RojxsOfficial](https://github.com/RojxsOfficial)
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
+
+### ⚙️ Stack tecnológico
+
+#### **Antes trabajaba con:**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+</p>
+
+#### **Ahora estoy construyendo mi nuevo stack multiplataforma:**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,mysql,tauri,docker,git,github" />
+</p>
+
+#### **Arquitectura y buenas prácticas:**
+- 🧱 **API REST** con **Arquitectura Hexagonal** (en estudio)
+- 🐳 **Contenedores** con Docker para entornos reproducibles
+- ☁️ **Despliegues** en Hostinger y entornos locales
+- 🔧 **Control de versiones** con Git y colaboración en GitHub
 
 ---
-💡 *Siempre aprendiendo y construyendo el futuro con código.* 🚀
+
+### 📈 Estadísticas de GitHub
+
+<div align="center">
+
+ 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rojxs-Stack&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+
+### 🌐 Conecta conmigo
+
+<p align="center">
+  <a href="https://instagram.com/rojxs_stack"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Rojxs Stack"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Rojxs-Stack"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
